@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Salih Çakmak
-- 👀 I’m at Ecole 42 Istanbul
-- 🌱 I’m currently learning ...
-- 💞️ I’m currently learning linux, docker, kubernetes, javascript, english, microservices
+- Islam & Science
+- Genior Technologies
+- salih çakmak
 - 📫 How to reach me <a href="https://www.linkedin.com/in/salih-cakmak">https://www.linkedin.com/in/salih-cakmak 
 
 <!---
