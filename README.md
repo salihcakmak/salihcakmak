@@ -1,6 +1,5 @@
 - Islam & Science
 - Genior Technologies
-- salih çakmak
 - 📫 How to reach me <a href="https://www.linkedin.com/in/salih-cakmak">https://www.linkedin.com/in/salih-cakmak 
 
 <!---
